@@ -1,0 +1,5 @@
+KAFKA_BOOTSTRAP_SERVERS=pkc-56d1g.eastus.azure.confluent.cloud:9092
+KAFKA_API_KEY=RYX5MTFQ7OE7FW33
+KAFKA_API_SECRET=cfltFUf+ck9F0d808NT2nVJ3k5RHKnHPxb+ehjkN5B22z4hg21EJdTdHw5KpkySQ
+KAFKA_REST_ENDPOINT=https://pkc-56d1g.eastus.azure.confluent.cloud:443
+KAFKA_CLUSTER_ID=lkc-xq7znxk
